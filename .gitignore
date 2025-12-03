@@ -1,0 +1,4 @@
+*.AppImage
+wine/
+.wine/
+squashfs-root/
