@@ -2,3 +2,4 @@
 wine/
 .wine/
 squashfs-root/
+prefix/
